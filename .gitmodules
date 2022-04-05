@@ -1,0 +1,3 @@
+[submodule "pbbsbench"]
+	path = cpp/pbbsbench
+	url = git@github.com:cmuparlay/pbbsbench.git
